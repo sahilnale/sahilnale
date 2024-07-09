@@ -1,7 +1,7 @@
 
 # Hi, I'm Sahil Nale 👋
 
-I'm a passionate developer and data scientist currently studying at the University of California, Los Angeles, pursuing a Bachelor of Science in Data Theory with a Minor in Data Science Engineering. I have a strong interest in machine learning, natural language processing, and building impactful software solutions.
+I'm a passionate developer and data scientist currently studying at the University of California, Los Angeles, pursuing a Bachelor of Science in Data Theory with a Minor in Data Science Engineering. I have a strong interest in machine learning, natural language processing, Large Language Models and building impactful software solutions.
 
 ## Projects
 
