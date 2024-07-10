@@ -15,6 +15,11 @@ FindMyFood is a full-stack iOS application to manage and share restaurant visits
 
 **Technologies:** SwiftUI, Firebase, MapKit, MongoDB, AWS S3
 
+### [Uber Fare Prediction](https://github.com/sahilnale/FindMyFood)
+This project aims to predict the fare of Uber rides in New York City using various machine learning algorithms. It involves data preprocessing, feature engineering, and model evaluation to build a reliable fare prediction model. Gradient Boosting and XGBoost models were used, achieving an R² score of 0.85 and 0.87 respectively.
+
+**Technologies:** Python, Jupyter Notebook, pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost
+
 ## Experience
 
 ### Undergraduate Research Assistant
