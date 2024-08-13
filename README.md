@@ -1,49 +1,101 @@
 
 # Hi, I'm Sahil Nale 👋
 
-I'm a passionate developer and data scientist currently studying at the University of California, Los Angeles, pursuing a Bachelor of Science in Data Theory with a Minor in Data Science Engineering. I have a strong interest in machine learning, natural language processing, Large Language Models and building impactful software solutions.
+I'm a passionate developer and data scientist currently studying at the University of California, Los Angeles, pursuing a Bachelor of Science in Math of Computation and a Bachelor of Science in Statistics & Data Science. I have a strong interest in machine learning, natural language processing, Large Language Models and building impactful software solutions.
 
-## Projects
+# 🧪 Projects
 
 ### [TradeWhiz](https://github.com/sahilnale/TradeWhiz)
 TradeWhiz allows users to simulate stock trading in a risk-free environment. It provides real-time stock data, market sentiment analysis, and helps users make informed trading decisions and practice their strategies without financial risk.
 
 **Technologies:** React, Flask, MongoDB, NLTK, BeautifulSoup, AWS EC2
 
-### [FindMyFood](https://github.com/sahilnale/FindMyFood)
+### [FindMyFood](https://github.com/sahilnale/FindMyFood) 🔗
 FindMyFood is a full-stack iOS application to manage and share restaurant visits. It leverages Swift for the front-end, Firebase for user authentication, and MongoDB for data storage. AWS S3 is used for efficient storage and retrieval of user profile images and post photos.
 
 **Technologies:** SwiftUI, Firebase, MapKit, MongoDB, AWS S3
 
-### [Uber Fare Prediction](https://github.com/sahilnale/FindMyFood)
+### [react-vscode-portfolio](https://github.com/noworneverev/react-vscode-portfolio) 🔗
+- What you are looking at now
+- A VS Code inspired portfolio project
+- Responsive Web Design 
+- React, TypeScript
+
+### [Uber Fare Prediction](https://github.com/sahilnale/FindMyFood) 🔗
 This project aims to predict the fare of Uber rides in New York City using various machine learning algorithms. It involves data preprocessing, feature engineering, and model evaluation to build a reliable fare prediction model. Gradient Boosting and XGBoost models were used, achieving an R² score of 0.85 and 0.87 respectively.
 
 **Technologies:** Python, Jupyter Notebook, pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost
 
-## Experience
+### RickGPT(https://github.com/sahilnale/RickGPT/blob/main/GPTRick.ipynb) 🔗
+Developed a chatbot using Transformers and fine-tuning Microsoft’s DialoGPT to emulate Rick Sanchez’s personality from the TV show “Rick and Morty,” achieving 85% response relevance on NLP metrics such as BLEU and METEOR. Processed over 1000 unique dialogue inputs, optimizing the model for realistic conversational responses.
 
-### Undergraduate Research Assistant
-**UCSC AIES Lab, Santa Cruz, CA (Jun. 2024 – Present)**
-- Conducting a research project focused on LLM safety, verifying accuracy in LLM outputs, and explaining LLM hallucinations.
+**Technologies:** Python, Pytorch, DialoGPT, Transformers, Hugging Face
 
-### Data Science Intern
-**FalconX, Milpitas, CA (Jun. 2024 – Present)**
-- Implemented ML and NLP models to scrape SEC filings and market sentiment, reducing data retrieval time by 95% and applying insights to proprietary trading strategies.
-- Created a web dashboard to track various calculated metrics for different financial instruments for portfolio management.
+### Custom Tweet Sentiment Analysis Transformer(https://github.com/sahilnale/twitter_sentiment/blob/main/sentiment_analysis.ipynb) 🔗
+Developed a sentiment analysis BERT-like transformer model, achieving 90% accuracy and F1 score of 0.90 on the test data. Optimized transformer model performance, reducing evaluation loss to 0.25, with 89% precision and 91% recall.
 
-### AI Intern
-**interactly.ai, Milpitas, CA (Jun. 2024 – Present)**
-- Developing synthetic datasets and custom small language models to enhance an AI chat agent’s customer interactions, achieving a more human-like touch in communication.
+**Technologies:** Python, PyTorch, scikit-learn, Pandas, Hugging Face
 
-### Data Consultant
-**DataRes, Los Angeles, CA (Jan. 2024 – Present)**
-- Evaluated 10+ local and API-based LLMs for clients, improving model selection by 30% through NLP metric analysis.
-- Optimized parameters and prompt engineered inputs, achieving a 25% improvement in model performance metrics.
+### Los Angeles Crime Analysis(https://github.com/sahilnale/la-crime-analysis) 🔗
+Conducted analysis on over 1 million LA crime data points from the past three years, using statistical methods such as random tree forests, hypothesis testing, and bootstrapping with 95% confidence to analyze patterns and trends in crime. Created a Tableau Dashboard providing visual insights into LA crime, summarizing timings, areas, and victim demographics.
 
-### DevOps Intern
-**Opsara Inc., Milpitas, CA (Feb. 2023 – Jun. 2023)**
-- Developed Python & Bash scripts to automate data retrieval from AWS and GCP, streamlining workflows for the sales team.
-- Built a web dashboard for the sales team to track server inventory and storage, reducing data retrieval time by 50%.
+**Technologies:** R, SQL, Tableau, RStudio
+
+
+# 👨‍💻 Experience
+
+**AI/ML Intern** @ [interactly.ai](https://www.interactly.ai/) _(Jun. 2024 – Present)_
+
+Implemented custom small language models (SLMs) tailored to client-specific needs across various industries. Contributed to the development and deployment of machine learning solutions.
+- Detailed achievements:
+  - Developed over 10+ custom SLMs and synthetic datasets with over 1 million data points for fine-tuning models.
+  - Enhanced SLM response accuracy by 30% through the implementation of RAG techniques and vector databases.
+  - Reduced deployment time by 40% using AWS SageMaker for training and deploying SLMs with API endpoints for client access.
+- _**Technologies used:**_ Python, AWS SageMaker, Gemeni, RAG, Vector Databases
+
+&nbsp;
+
+**Finance Data Science Intern** @ [FalconX](https://www.falconx.io/) _(Jun. 2024 – Present)_
+
+Focused on the application of machine learning and natural language processing to financial data, contributing to the development of trading strategies and tools.
+- Detailed achievements:
+  - Implemented ML and NLP models for scraping SEC filings and market sentiment, reducing data retrieval time by 95%.
+  - Developed LSTM models for market trend analysis, leading to more informed trading decisions.
+  - Created a web dashboard to track metrics for portfolio management.
+- _**Technologies used:**_ Python, LSTM, NLP, Flask, MongoDB, SEC Filings, Market Sentiment
+
+&nbsp;
+
+**Undergraduate Research Assistant, Large Language Models** @ [UCSC AIES Lab](https://www.soe.ucsc.edu/research/ai-es) _(Jun. 2024 – Present)_
+
+Engaged in research on LLM safety, output accuracy, and the improvement of logical reasoning capabilities.
+- Detailed achievements:
+  - Conducted research on LLM safety, focusing on output verification and hallucination reduction.
+  - Utilized Prolog for advanced logical reasoning and inference to enhance LLM interpretability and reliability.
+- _**Technologies used:**_ Python, Prolog, LLM, Logical Reasoning
+
+&nbsp;
+
+**Data Consultant** @ [DataRes](https://www.datares.com/) _(Jan. 2024 – Present)_
+
+Provided data strategy consultation, focusing on AI-driven solutions and improving decision-making through advanced analytics.
+- Detailed achievements:
+  - Evaluated 10+ LLMs for clients, improving model selection accuracy by 30%.
+  - Fine-tuned models and engineered prompts, resulting in a 25% boost in performance metrics.
+  - Conducted A/B testing on various models and configurations to identify optimal solutions.
+- _**Technologies used:**_ Python, NLP, AWS, LLM, A/B Testing
+
+&nbsp;
+
+**DevOps Intern** @ [Opsara Inc.](https://www.opsara.com/) _(Feb. 2023 – Jun. 2023)_
+
+Developed and maintained DevOps pipelines, focusing on server data retrieval and automation of workflows.
+- Detailed achievements:
+  - Created Python and Bash scripts for retrieving server data from AWS, GCP, and on-premises servers.
+  - Automated workflows with Apache Airflow, ensuring efficient ETL processes.
+  - Built a web dashboard to track server inventory, reducing data retrieval time by 50%.
+- _**Technologies used:**_ Python, Bash, Apache Airflow, AWS, GCP, Flask
+
 
 ## Technical Skills
 
