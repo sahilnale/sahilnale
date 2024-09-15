@@ -5,6 +5,11 @@ I'm a passionate developer and data scientist currently studying at the Universi
 
 # 🧪 Projects
 
+### [Black-Scholes Pricing Model](https://sahilnale-black-scholes-option-pricing-streamlit-app-mvr2xe.streamlit.app/)
+This repository provides an interactive Black-Scholes Pricing Model dashboard that helps in visualizing option prices under varying conditions. The dashboard is designed to be user-friendly and interactive, allowing users to explore how changes in spot price, volatility, and other parameters influence the value of options.
+
+**Technologies:** Streamlist, numpy, yfinance, matplotlib
+
 ### [TradeWhiz](https://github.com/sahilnale/TradeWhiz)
 TradeWhiz allows users to simulate stock trading in a risk-free environment. It provides real-time stock data, market sentiment analysis, and helps users make informed trading decisions and practice their strategies without financial risk.
 
