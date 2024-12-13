@@ -57,16 +57,7 @@ Implemented custom small language models (SLMs) tailored to client-specific need
   - Reduced deployment time by 40% using AWS SageMaker for training and deploying SLMs with API endpoints for client access.
 - _**Technologies used:**_ Python, AWS SageMaker, Gemeni, RAG, Vector Databases
 
-&nbsp;
 
-**Finance Data Science Intern** @ [FalconX](https://www.falconx.io/) _(Jun. 2024 – Present)_
-
-Focused on the application of machine learning and natural language processing to financial data, contributing to the development of trading strategies and tools.
-- Detailed achievements:
-  - Implemented ML and NLP models for scraping SEC filings and market sentiment, reducing data retrieval time by 95%.
-  - Developed LSTM models for market trend analysis, leading to more informed trading decisions.
-  - Created a web dashboard to track metrics for portfolio management.
-- _**Technologies used:**_ Python, LSTM, NLP, Flask, MongoDB, SEC Filings, Market Sentiment
 
 &nbsp;
 
